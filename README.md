@@ -8,4 +8,8 @@ A Java application with a graphical interface that encrypts and decrypts text fi
 - Custom repeating key algorithm
 
 ## How to Run
-Run CryptoUI.java in your IDE.
+1. Open the project in Eclipse or IntelliJ  
+2. Run `CryptoUI.java`  
+3. Select input/output files  
+4. Enter a key  
+5. Click Encrypt or Decrypt  
